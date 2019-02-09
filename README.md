@@ -1,7 +1,7 @@
 # 100 Days Of Swift
-A collection of swift projects, inspired by Paul Hudson's 100 Days of Swift challenge: https://www.hackingwithswift.com/100
+Collection of swift projects, inspired by Paul Hudson's #100DaysofSwift challenge: https://www.hackingwithswift.com/100
 
-#
+
  - [x] <b>Day 1</b>
 * Variables
 * Strings and integers
