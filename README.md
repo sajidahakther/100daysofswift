@@ -1,19 +1,34 @@
 # 100 Days Of Swift
-Collection of swift projects, inspired by Paul Hudson's #100DaysofSwift challenge: https://www.hackingwithswift.com/100
+A collection of swift projects, based on the activities from 'App Development with Swift': https://apple.co/2MYGIsT and Paul Hudson's #100DaysofSwift challenge: https://www.hackingwithswift.com/100
 
 
  - [x] <b>Day 1</b>
-* Variables
+* Constants and variables
 * Strings and integers
 * Multi-line strings
 * Doubles and booleans
 * String interpolation
-* Constants
 * Type annotations
 * Simple types: Summary
+* Operators
+* Control Flow
+* XCode
+* App building, running and debugging
+* Documentation
 
  #
  - [ ] <b>Day 2</b>
+ * Arrays 
+ * Sets
+ * Tuples
+ * Arrays vs sets vs tuples
+ * Dictionaries 
+ * Dictionary default values
+ * Creating empty collections 
+ * Enumerations
+ * Enum associated values
+ * Enum raw values
+ * Complex types: Summary 
  
   #
  - [ ] <b>Day 3</b>
