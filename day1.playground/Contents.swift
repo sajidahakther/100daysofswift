@@ -122,7 +122,7 @@ sum = Double(y) + π //converts y to 3.0 and adds π = 3.14159
 
 
 //1.8 CONTROL FLOW
-//if-else statement with logical operators
+//If-Else statement with logical operators
 var position = 2
 
 if position == 1 {
@@ -133,6 +133,9 @@ if position == 1 {
     print("You didn't come 1st or 2nd place.")
 }
 
+//Boolean operators
+let number = 1000
+let isSmallNumber = number < 10 //returns false because number doesn't qualify as a small number
 
 
 
