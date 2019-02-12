@@ -10,6 +10,9 @@ A collection of swift projects, based on the activities from 'App Development wi
 * String interpolation
 * Type annotations
 * Simple types: Summary
+
+ #
+ - [x] <b>Day 2</b>
 * Operators
 * Control Flow
 * XCode
@@ -17,7 +20,7 @@ A collection of swift projects, based on the activities from 'App Development wi
 * Documentation
 
  #
- - [ ] <b>Day 2</b>
+ - [ ] <b>Day 3</b>
  * Arrays 
  * Sets
  * Tuples
@@ -29,9 +32,6 @@ A collection of swift projects, based on the activities from 'App Development wi
  * Enum associated values
  * Enum raw values
  * Complex types: Summary 
- 
-  #
- - [ ] <b>Day 3</b>
 
  #
  - [ ] <b>Day 4</b>
