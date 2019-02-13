@@ -160,18 +160,18 @@ if isPluggedIn || hasBatteryPower {
 }
 
 //Switch Statement
-let bengaliNumbers = 1
-switch bengaliNumbers{
+let Numbers = 3
+switch Numbers{
 case 1:
-    print("এক (ēk)")
+    print("এক")
 case 2:
-    print("দুই (dui)")
+    print("দুই")
 case 3:
-    print("তিন (tin)")
+    print("তিন")
 case 4:
-    print("চার (chā)")
+    print("চার")
 case 5:
-    print("পাঁচ (pāṅch)")
+    print("পাঁচ")
 default:
     print("Numbers 1 - 5 in Bengali")
 }
