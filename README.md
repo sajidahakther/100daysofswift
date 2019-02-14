@@ -21,6 +21,10 @@ A collection of swift projects, based on the activities from 'App Development wi
 
  #
  - [ ] <b>Day 3</b>
+ * iOS Weather Application
+
+ #
+ - [ ] <b>Day 4</b>
  * Arrays 
  * Sets
  * Tuples
@@ -32,9 +36,6 @@ A collection of swift projects, based on the activities from 'App Development wi
  * Enum associated values
  * Enum raw values
  * Complex types: Summary 
-
- #
- - [ ] <b>Day 4</b>
  
  #
  - [ ] <b>Day 5</b>
