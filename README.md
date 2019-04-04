@@ -1,6 +1,5 @@
-# 100 Days Of Swift
-A collection of swift projects, based on the activities from 'App Development with Swift': https://apple.co/2MYGIsT and Paul Hudson's #100DaysofSwift challenge: https://www.hackingwithswift.com/100
-
+# Learning Swift
+Learning iOS programming by working through the course [App Development with Swift](https://apple.co/2MYGIsT), and Paul Hudson's [#100DaysofSwift](https://www.hackingwithswift.com/100) challenge.
 
  - [x] <b>Day 1</b>
 * Constants and variables
