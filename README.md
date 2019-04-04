@@ -1,5 +1,5 @@
-# Learning Swift
-Learning iOS programming by working through the course [App Development with Swift](https://apple.co/2MYGIsT), and Paul Hudson's [#100DaysofSwift](https://www.hackingwithswift.com/100) challenge.
+# Swift
+Learning iOS programming by working through the [App Development with Swift](https://apple.co/2MYGIsT) course, and Paul Hudson's [#100DaysofSwift](https://www.hackingwithswift.com/100) challenge.
 
  - [x] <b>Day 1</b>
 * Constants and variables
@@ -19,11 +19,7 @@ Learning iOS programming by working through the course [App Development with Swi
 * Documentation
 
  #
- - [ ] <b>Day 3</b>
- * iOS Weather Application
-
- #
- - [ ] <b>Day 4</b>
+ - [x] <b>Day 3</b>
  * Arrays 
  * Sets
  * Tuples
@@ -36,21 +32,39 @@ Learning iOS programming by working through the course [App Development with Swi
  * Enum raw values
  * Complex types: Summary 
  
+  #
+ - [x] <b>Day 4</b>
+ * Arithmetic Operators 
+ * Operator overloading 
+ * Compound assignment operators 
+ * Comparison operators 
+ * Conditions 
+ * Combining conditions 
+ * The ternary operator 
+ * Switch statements 
+ * Range operators 
+ * Operators and conditions summary 
+ 
  #
- - [ ] <b>Day 5</b>
-
+ - [x] <b>Day 5</b>
+ * For loops 
+ * While loops 
+ * Repeat loops 
+ * Exiting loops 
+ * Exiting multiple loops 
+ * Skipping items 
+ * Infinite loops 
+ * Looping summary 
+ 
  #
  - [ ] <b>Day 6</b>
- 
+
  #
  - [ ] <b>Day 7</b>
-
- #
- - [ ] <b>Day 8</b>
  
  #
- - [ ] <b>Day 9</b>
+ - [ ] <b>Day 8</b>
 
  #
- - [ ] <b>Day 10</b>
+ - [ ] <b>Day 9</b>
  
