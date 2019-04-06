@@ -57,7 +57,12 @@ Learning iOS programming by working through the [App Development with Swift](htt
  * Looping summary 
  
  #
- - [ ] <b>Day 6</b>
+ - [x] <b>Day 6</b>
+ * Creating basic closures
+ * Accepting parameters in a closure
+ * Returning values from a closure
+ * Closures as parameters
+ * Trailing closure syntax
 
  #
  - [ ] <b>Day 7</b>
